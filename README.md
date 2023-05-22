@@ -42,3 +42,5 @@ You need to obtain an API key from `alphavantage.co` and replace `'H8FN4INZUM35F
 To use the bot, you need to create a Telegram bot and obtain an API token from the BotFather. Replace `'YOUR_BOT_TOKEN'` with your own token in the `Updater` initialization.
 
 Once you have set up the bot, you can run the script, and it will start listening for incoming messages and commands from users. Users can interact with the bot by sending commands, selecting options from the provided menus, and entering the amount they want to convert.
+
+Developed by w1lqA.
