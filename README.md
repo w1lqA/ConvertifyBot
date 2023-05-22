@@ -35,7 +35,7 @@ The bot integrates with two external APIs to retrieve exchange rate data:
 
 2. `alphavantage.co`: Used to retrieve exchange rates for cryptocurrencies (BTC, ETH).
 
-You need to obtain an API key from `alphavantage.co` and replace `'H8FN4INZUM35FMF1'` with your own API key in the `get_crypto_exchange_rate` function.
+You need to obtain an API key from `alphavantage.co` and replace `'ALPHAVANTAGE_API'` with your own API key in the `get_crypto_exchange_rate` function.
 
 ### Usage
 
